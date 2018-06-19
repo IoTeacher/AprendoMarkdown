@@ -13,5 +13,3 @@ frameborder="0"allowfullscreen></iframe>')
 
 ```
 
-from IPython.display import HTML
-HTML('<iframe width="560" height="315" src="https://www.youtube.com/embed/udHlvH6TGvo" frameborder="0"allowfullscreen></iframe>')
